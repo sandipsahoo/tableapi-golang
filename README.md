@@ -92,15 +92,15 @@ ts.DeleteTable(tableName)
 ```
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/sasahoo/tableapi-golang/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/sandipsahoo/tableapi-golang/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sasahoo/tableapi-golang/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sandipsahoo/tableapi-golang/tags). 
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](https://github.com/sasahoo/tableapi-golang/blob/master/LICENSE) file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](https://github.com/sandipsahoo/tableapi-golang/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 

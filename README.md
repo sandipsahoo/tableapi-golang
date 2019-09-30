@@ -12,7 +12,7 @@ golang 1.10 or above
 ### Installing
 
 ```
-go get github.com/sasahoo/tableapi-golang/table
+go get github.com/sandipsahoo/tableapi-golang/table
 
 ```
 

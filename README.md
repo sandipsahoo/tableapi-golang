@@ -1,7 +1,7 @@
 [![godoc reference](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/sandipsahoo/tableapi-golang/table) [![Go Report Card](https://goreportcard.com/badge/github.com/sandipsahoo/tableapi-golang)](https://goreportcard.com/report/github.com/sandipsahoo/tableapi-golang) [![License: Apache2.0](https://img.shields.io/badge/License-Apache2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)[![GitHub release](https://img.shields.io/badge/release-v1.0--alpha-yellowgreen)](https://github.com/sandipsahoo/tableapi-golang/releases/)
 
 # TableAPIGolang
-This is GO SDK for CosmosDB using Table API
+This is a GO SDK for CosmosDB using Table API
 
 ### Prerequisites
 

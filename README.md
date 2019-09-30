@@ -1,4 +1,4 @@
-[![godoc reference](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/sandipsahoo/tableapi-golang/table) [![Go Report Card](https://goreportcard.com/badge/github.com/sandipsahoo/tableapi-golang)](https://goreportcard.com/report/github.com/sandipsahoo/tableapi-golang) [![License: Apache2.0](https://img.shields.io/badge/License-Apache2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)[![GitHub release](https://img.shields.io/badge/release-v1.0--beta-yellowgreen)](https://github.com/sandipsahoo/tableapi-golang/releases/)
+[![godoc reference](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/sandipsahoo/tableapi-golang/table) [![Go Report Card](https://goreportcard.com/badge/github.com/sandipsahoo/tableapi-golang)](https://goreportcard.com/report/github.com/sandipsahoo/tableapi-golang) [![License: Apache2.0](https://img.shields.io/badge/License-Apache2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)[![GitHub release](https://img.shields.io/badge/release-v1.0--alpha-yellowgreen)](https://github.com/sandipsahoo/tableapi-golang/releases/)
 
 # TableAPIGolang
 This is GO SDK for CosmosDB using Table API
@@ -92,15 +92,15 @@ ts.DeleteTable(tableName)
 ```
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/sasahoo/tableapi-golang/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/sandipsahoo/tableapi-golang/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sasahoo/tableapi-golang/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sandipsahoo/tableapi-golang/tags). 
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](https://github.com/sasahoo/tableapi-golang/blob/master/LICENSE) file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](https://github.com/sandipsahoo/tableapi-golang/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
